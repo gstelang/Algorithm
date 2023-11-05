@@ -17,8 +17,6 @@ function gcdOfStrings(str1 = '', str2 = '') {
 // gcd("AB", "ABAB")
 // gcd("AB","AB")
 
-//  "ABCABC" "ABC"
-//  "ABC"
 // const answer1 = gcdOfStrings("ABCABC", "ABC"); // "ABC"
 const answer2 = gcdOfStrings("ABABAB", "ABAB"); //  "AB"
 // const answer3 = gcdOfStrings("LEET", "CODE"); //  ""
