@@ -240,7 +240,7 @@ const asteroidCollision = (asteroids) => {
     return stack
 }'
 ```
-$ (Stack) 6. Decode string
+# (Stack) 6. Decode string
 
 Given an encoded string, return its decoded string.
 
