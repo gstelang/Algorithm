@@ -192,7 +192,7 @@ var removeStars = function(s) {
 };
 ```
 
-# (Stack) 5. Asteroid Collision
+# 5. (Stack) Asteroid Collision
 
 We are given an array asteroids of integers representing asteroids in a row.
 
@@ -240,7 +240,7 @@ const asteroidCollision = (asteroids) => {
     return stack
 }'
 ```
-# (Stack) 6. Decode string
+# 6. (Stack) Decode string
 
 Given an encoded string, return its decoded string.
 
